@@ -1,0 +1,7 @@
+img {
+  width: 1000px;
+  height: 450px;
+  background: url(mazeback.jpg) 50% no-repeat;
+  border: 1px solid black;
+  border-radius: 5px;
+}
